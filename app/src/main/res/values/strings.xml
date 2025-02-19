@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">MultiQuiz</string>
+    <string name="question_1">What is the capital city of Egypt?</string>
+    <string name="question_2">Which is the largest country in the world?</string>
+    <string name="question_3">Which is the longest river in the world?</string>
+    <string name="question_4">How many time zones does India have?</string>
+
+    <string name="answer_1_0">Cairo</string>
+    <string name="answer_1_1">Aswan</string>
+    <string name="answer_1_2">Luxor</string>
+    <string name="answer_1_3">Giza</string>
+
+    <string name="answer_2_0">China</string>
+    <string name="answer_2_1">Russia</string>
+    <string name="answer_2_2">India</string>
+    <string name="answer_2_3">Italy</string>
+
+    <string name="answer_3_0">Niger</string>
+    <string name="answer_3_1">Amazon</string>
+    <string name="answer_3_2">Nile</string>
+    <string name="answer_3_3">Volga</string>
+
+    <string name="answer_4_0">Three</string>
+    <string name="answer_4_1">Two</string>
+    <string name="answer_4_2">Four</string>
+    <string name="answer_4_3">One</string>
+
+
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="score_header">Score View</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="question_mark">\?</string>
 </resources>
